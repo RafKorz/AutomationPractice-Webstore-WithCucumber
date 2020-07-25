@@ -1,2 +1,2 @@
-# AutomationPractice-Webstore-WithCucumber
-Test was created in Selenium Webdriver in Java and BDD with Cucumber.
+# Test_project_of_webstore 
+Test project of the online store prepared on 18 and 19 July 2020 as the final project as part of the course at the Software Development Academy on the "Software Tester" course. Manual functional and exploratory tests were used. One element of the project was subjected to an automatic test - in Selenium Webdriver with Cucumber in Java. The test was performed in a group. In the repository there are screenshots from TestRail showing test cases and bugs from own work - the project was performed in a group.
