@@ -50,6 +50,10 @@ public class Steps {
                 searchButton.click();
                 break;
             }
+	else
+	{
+		System.out.println("BUG");
+	}
         }
 
     }
