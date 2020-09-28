@@ -1,6 +1,6 @@
 Feature:  Search in automationpractice.com
 
-  Scenario: Search sda in automationpractice.com
+  Scenario: Search item in automationpractice.com
   Given a user in a automationpractice.com webstore
   When the user types "blouse" in input search
     And the user clicks on search button
