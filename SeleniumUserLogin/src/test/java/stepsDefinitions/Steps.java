@@ -17,7 +17,7 @@ import java.util.List;
 public class Steps {
 
     WebDriver driver;
-    String expectedMessage = "hello";
+    String expectedMessage = "My account";
     String currentMessage;
 
     @Before
